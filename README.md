@@ -13,6 +13,8 @@
 - **Tampermonkey Integration:** Seamlessly integrates with your browser via Tampermonkey.
 
 ## Installation
+[Install](https://greasyfork.org/en/scripts/506613-instagram-chat-bot) it from GreasyFork or...
+
 1. Install the [Tampermonkey extension](https://www.tampermonkey.net/) for your browser.
 2. Copy the script from this repository.
 3. Open Tampermonkey and create a new script.
