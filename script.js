@@ -1,11 +1,14 @@
+// ==UserScript==
 // @name         Instagram Chat Bot
 // @namespace    https://github.com/swempish
-// @version      1.0.0
+// @version      1.0.5
 // @description  A script that adds a side panel to Instagram's DM section. Activates an AI-powered bot to automatically reply to incoming messages.
 // @author       Emirhan Çolak
-// @match        http://*/*
+// @match        https://www.instagram.com/direct/t/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
+// @license GPL-3.0
+// @require      https://code.jquery.com/jquery-3.7.1.slim.min.js
 // ==/UserScript==
 
 // Side panel element (Start bot button)
