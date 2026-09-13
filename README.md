@@ -1,10 +1,11 @@
-# Insta DM AI Bot
+# Insta DM AI Bot (OUTDATED)
 
 ![Last Commit](https://img.shields.io/github/last-commit/swempish/insta-dm-ai-bot)
 ![Visitors](https://vbr.nathanchung.dev/badge?page_id=swempish.insta-dm-ai-bot)
 ![GitHub Stars](https://img.shields.io/github/stars/swempish/insta-dm-ai-bot)
 
 ## Overview
+It probably doesn't work anymore. <br><br>
 `Insta DM AI Bot` is a Tampermonkey script designed to enhance your Instagram Direct Messages (DMs) experience by adding an AI-powered bot. Once activated via the custom side panel, the bot listens for incoming messages, processes them using artificial intelligence, and sends back a relevant reply automatically.
 
 ## Features
